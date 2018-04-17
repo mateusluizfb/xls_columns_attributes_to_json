@@ -3,7 +3,7 @@
 ### HOW TO USE
 
 - Run Bundle Install
-- Change the the path to the .xlsx file and the sheet name in the SHEET_PATH and SHEET_NAME constants in the code.
+- Change the the path to the .xlsx file, and the sheet name, and the number of columns in the SHEET_PATH, SHEET_NAME and COLUMNS_N constants in the code.
 
 I made this quickly, so if you have some suggestion just open a PR. Thx.
 
