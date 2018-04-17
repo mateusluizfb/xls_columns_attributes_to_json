@@ -2,8 +2,10 @@
 
 ### HOW TO USE
 
+- Install ruby and bundler
 - Run Bundle Install
 - Change the the path to the .xlsx file, and the sheet name, and the number of columns in the SHEET_PATH, SHEET_NAME and COLUMNS_N constants in the code.
+- Run `ruby parse_xls.rb`
 
 I made this quickly, so if you have some suggestion just open a PR. Thx.
 
