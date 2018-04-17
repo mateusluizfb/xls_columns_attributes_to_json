@@ -1,4 +1,4 @@
-## XLS Columns Attributes to Json
+## Ruby script - XLS Columns Attributes to Json
 
 ### HOW TO USE
 
