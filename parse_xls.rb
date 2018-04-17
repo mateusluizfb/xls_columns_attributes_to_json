@@ -3,12 +3,13 @@ require 'json'
 
 SHEET_PATH = '<RELATIVE-PATH-TO-XLSX>'.freeze
 SHEET_NAME = '<SHEET-NAME>'.freeze
+COLUMNS_N = 3.freeze
 
 workbook = RubyXL::Parser.parse(SHEET_PATH)
 
 obj_array = []
 
-(0..14).each do |i|
+(0..COLUMNS_N).each do |i|
   caracteristic = {
     name: workbook[SHEET_NAME][0][i].value,
     values: []
