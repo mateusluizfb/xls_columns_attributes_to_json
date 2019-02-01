@@ -11,7 +11,7 @@ I made this quickly, so if you have some suggestion just open a PR. Thx.
 
 ### HOW IT WORKS
 
-Supose you have a sheet like that:
+Supose you have a sheet like this:
 
 |Songs            |Games         |Movies     |
 |-----------------|--------------|-----------|
